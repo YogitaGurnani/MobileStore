@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MobileStore/static/css/main.446f9144.chunk.css",
-    "main.js": "/MobileStore/static/js/main.0c878e74.chunk.js",
-    "main.js.map": "/MobileStore/static/js/main.0c878e74.chunk.js.map",
-    "runtime-main.js": "/MobileStore/static/js/runtime-main.3ee16ce2.js",
-    "runtime-main.js.map": "/MobileStore/static/js/runtime-main.3ee16ce2.js.map",
-    "static/css/2.11829350.chunk.css": "/MobileStore/static/css/2.11829350.chunk.css",
-    "static/js/2.b49fb9ce.chunk.js": "/MobileStore/static/js/2.b49fb9ce.chunk.js",
-    "static/js/2.b49fb9ce.chunk.js.map": "/MobileStore/static/js/2.b49fb9ce.chunk.js.map",
-    "index.html": "/MobileStore/index.html",
-    "precache-manifest.bd74147e06dce73ecf1130a9c7dc105b.js": "/MobileStore/precache-manifest.bd74147e06dce73ecf1130a9c7dc105b.js",
-    "service-worker.js": "/MobileStore/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/MobileStore/static/css/2.11829350.chunk.css.map",
-    "static/css/main.446f9144.chunk.css.map": "/MobileStore/static/css/main.446f9144.chunk.css.map",
-    "static/js/2.b49fb9ce.chunk.js.LICENSE.txt": "/MobileStore/static/js/2.b49fb9ce.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/MobileStore/static/media/logo.9f7e506d.svg"
+    "main.css": "/static/css/main.446f9144.chunk.css",
+    "main.js": "/static/js/main.b4888bbf.chunk.js",
+    "main.js.map": "/static/js/main.b4888bbf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.62527498.js",
+    "runtime-main.js.map": "/static/js/runtime-main.62527498.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.5dc4ee77.chunk.js": "/static/js/2.5dc4ee77.chunk.js",
+    "static/js/2.5dc4ee77.chunk.js.map": "/static/js/2.5dc4ee77.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fd93e54b1cf4c203ca84d59f93dc60e1.js": "/precache-manifest.fd93e54b1cf4c203ca84d59f93dc60e1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.446f9144.chunk.css.map": "/static/css/main.446f9144.chunk.css.map",
+    "static/js/2.5dc4ee77.chunk.js.LICENSE.txt": "/static/js/2.5dc4ee77.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.9f7e506d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ee16ce2.js",
+    "static/js/runtime-main.62527498.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.b49fb9ce.chunk.js",
+    "static/js/2.5dc4ee77.chunk.js",
     "static/css/main.446f9144.chunk.css",
-    "static/js/main.0c878e74.chunk.js"
+    "static/js/main.b4888bbf.chunk.js"
   ]
 }
